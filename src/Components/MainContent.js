@@ -7,11 +7,11 @@ export default function MainContent() {
             <div className="intro-container">
                 <p className="intro-name">Bjorn Worrall</p>
                 <p className="intro-title">Frontend Developer</p>
-                <a href="#"><p className="intro-website">www.bjornworrall.com</p></a>  
+                <a href="https://bjorns-portfolio.netlify.app/"><p className="intro-website">www.bjornworrall.com</p></a>  
             </div>
             <div className="social--main-container">
-                <a href="#"><button><i className="fa fa-envelope-square"></i>Email</button></a>
-                <a href="#"><button className="linkedin" > <i  className="fa fa-linkedin-square" aria-hidden="true"></i>
+                <a href="bjornworrall@gmai.com"><button><i className="fa fa-envelope-square"></i>Email</button></a>
+                <a href="https://www.linkedin.com/in/bjorn-worrall-00669513b/"><button className="linkedin" > <i  className="fa fa-linkedin-square" aria-hidden="true"></i>
                                                                 LinkedIn</button></a>
             </div>
             <div className="description-main">
