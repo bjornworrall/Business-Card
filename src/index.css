@@ -186,3 +186,14 @@ footer a {
 footer a:hover {
   color: chartreuse;
 }
+
+@media (max-width: 800px) {
+  .whole-page {
+    flex-direction: column;
+  }
+
+  .container, .profile-description {
+    width: 100%;
+    padding: 1em;
+  }
+}
